@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Hi, I'm Vishal 👋
 
-<!--
-**vishalkasaudhan/vishalkasaudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year BTech Student
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- C Programming
+- Data Structures & Algorithms
+- Python
+- SQL
+- HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Open Source Contributor at GSSoC 2026
+
+💻 Interested In
+- Open Source
+- Data Science
+- AI/ML
+
+📌 Current Goal
+- Improve problem solving
+- Build strong GitHub profile
+- Contribute to Open Source
