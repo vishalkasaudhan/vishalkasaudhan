@@ -4,7 +4,7 @@
 🎓 First Year BTech Student
 
 🌱 Currently Learning
-- C Programming
+- C/C++ Programming
 - Data Structures & Algorithms
 - Python
 - SQL
