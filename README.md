@@ -7,8 +7,8 @@
 - C/C++ Programming
 - Data Structures & Algorithms
 - Python
-- SQL
-- HTML/CSS
+- SQL/MongoDB
+- HTML/CSS/JavaScript
 
 🚀 Open Source Contributor at GSSoC 2026
 
